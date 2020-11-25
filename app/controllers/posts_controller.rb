@@ -11,3 +11,4 @@ class PostsController < ApplicationController
     Post.create(content: params[:content])
   end
 end
+<* hogehoge >
